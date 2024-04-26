@@ -20,7 +20,7 @@ public class PokemonGo {
 
     /* la ejecucion programa*/
     private void run() {
-        /*mostrar caratula*/
+        /*mostrar caratula   */
             /*recuperar datos fichero de caratula*/
             
             /*mostrar por pantalla caratula
